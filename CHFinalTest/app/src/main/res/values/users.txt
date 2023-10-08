@@ -1,0 +1,19 @@
+{
+ "users": [
+   {
+     "userid" : "greenjoa1",
+     "name": "GDHong",
+     "tel" :"010-1234-1234"
+   },
+   {
+     "userid" : "greenjoa2",
+     "name": "GDChoi",
+     "tel" :"010-2234-2234"
+   },
+   {
+     "userid" : "greenjoa3",
+     "name": "GDLee",
+     "tel" :"010-3234-3234"
+   }
+ ]
+}
